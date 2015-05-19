@@ -10,3 +10,8 @@ particular reason.
 Use
 [this](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 yaml file for extensions.
+
+So sad. Github supports only six colors. With each new language, the gray
+expands, squashing the color out of the world.
+
+And yet it grows.
