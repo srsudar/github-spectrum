@@ -127,13 +127,32 @@ respectively.
 
 ![18 Linguist](./img/018_linguist.png)
 
+## 19
 
+![19 Github](./img/019_github.png)
 
-# 20 Languages in -- including ant and apacheconf.
+![19 Linguist](./img/019_linguist.png)
 
-20 files in 20 languages. Each has 180 characters, and yet the number it is
-displaying don't add up. A bug in the coloring or computation logic, perhaps?
-Abap definitely has the same number of characters as ActionScript, as a simple
-test.
+## 20
 
-![Broken math at 20 languages](./img/20_languages.png)
+![20 Github](./img/020_github.png)
+
+![20 Linguist](./img/020_linguist.png)
+
+## 21
+
+![21 Github](./img/021_github.png)
+
+![21 Linguist](./img/021_linguist.png)
+
+## 22
+
+![22 Github](./img/022_github.png)
+
+![22 Linguist](./img/022_linguist.png)
+
+## 23
+
+![23 Github](./img/023_github.png)
+
+![23 Linguist](./img/023_linguist.png)
