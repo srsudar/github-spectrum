@@ -1,7 +1,0 @@
-<project>
-  <target name="helloworld">
-    <mkdir dir="somedir" />
-  </target>
-</project>
-<!-- It isn't clear to me if this will be seen as ant or xml.
-Linguist isn't clear. 12-->
