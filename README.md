@@ -1,15 +1,5 @@
 # github-spectrum
 
-
-At home made [Mario Batali's Penne
-all'Arrabbiata](https://cooking.nytimes.com/recipes/1015236-mario-batalis-penne-allarrabbiata).
-I added a few modifications of my own based on the comments.
-
-> How now
-> Brown cow
-> How now
-> Oh I'm sorry you're a goat
-
 > All the colors!
 
 All the supported github color codes.
